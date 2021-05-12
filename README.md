@@ -4,8 +4,8 @@ This repository contains the pkgbuilds I have published to the Arch User Reposit
 
 ### External Links :
 
- - [My Packages on AUR](https://aur.archlinux.org/packages/?K=snehit&SeB=m)
- - [Link to Repology](https://repology.org/maintainer/snehit%40aur)
+ - [My Packages on AUR](https://aur.archlinux.org/packages/?K=flyingcakes&SeB=m)
+ - [Link to Repology](https://repology.org/maintainer/flyingcakes%40aur)
 
 ## License
 
